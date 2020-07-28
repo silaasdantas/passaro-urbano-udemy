@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Running Json Server
 
-Run `json-server` orginal.json
+Run `json-server` database.json
